@@ -8,6 +8,7 @@ gem 'rails', '4.0.5'
 #gem 'sqlite3'
 gem 'rspec-rails', '2.13.1'
 
+#Agregue group por sqllite3 por error en deploy con heroku
 group :development do 
   gem 'sqlite3', '1.3.8'
 end
