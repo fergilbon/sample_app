@@ -1,0 +1,3 @@
+user: example@railstutorial.
+
+password: foobar
